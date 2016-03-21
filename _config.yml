@@ -1,7 +1,7 @@
 name: Tokyo Spring 2016
 favicon: null
 layout_spectrum: 0.5211539443116635
-typography_spectrum: 0.4956186308991164
+typography_spectrum: 0.15185
 title: Tokyo Spring 2016
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#060606'
+    - '#69654a'
+    - '#3c3a21'
+    - '#8e8b82'
   brandStrength: 0.9099800793919712
   lightness: 0.9521372956223786
   saturation: 0.2115587005391717
